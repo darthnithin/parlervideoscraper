@@ -10,6 +10,5 @@ this script will get it from a parler video id, keep in mind not all videos are 
 8.240.242.124  
 
 # Notable links
-https://pastebin.com/03E6wKRq
 
 https://gist.github.com/Parler-Analysis/2c023fd2e053fba5bc85b09209f606eb
